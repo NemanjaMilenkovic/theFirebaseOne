@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>200620213782-pmeeo5n3b1oqkbkv45ekalihr8i1isdp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.200620213782-pmeeo5n3b1oqkbkv45ekalihr8i1isdp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4bLPYiaziefVwLvTF2tEtWYY-z19Nui8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>200620213782</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.theOne</string>
+	<key>PROJECT_ID</key>
+	<string>theone-one</string>
+	<key>STORAGE_BUCKET</key>
+	<string>theone-one.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:200620213782:ios:82857a1d116dc958b8d737</string>
+	<key>DATABASE_URL</key>
+	<string>https://theone-one.firebaseio.com</string>
+</dict>
+</plist>
